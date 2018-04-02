@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: db-service
+Implementation-Version: 0.0.1
+Built-By: oonyimadu
+Implementation-Vendor-Id: com.ob.microservice
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/DBService/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
